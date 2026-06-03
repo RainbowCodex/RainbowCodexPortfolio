@@ -5,8 +5,8 @@ const projectsData = [
     status: "In Progress",
     description: "A full-stack e-commerce marketplace featuring user authentication, product management dashboards, and a robust cart system.",
     technologies: ["React.js", "Node.js", "MySQL", "Bootstrap", "JavaScript"],
-    githubLink: "https://github.com/RainbowCodex/RainbowCodexPortfolio.git", // Replace with your actual GitHub link later
-    liveLink: "https://rainbow-codex-portfolio.vercel.app"   // Replace with your actual live link later
+    githubLink: "https://github.com/RainbowCodex/RainbowCodexPortfolio.git", 
+    liveLink: "https://rainbow-codex-portfolio.vercel.app"   
   },
   {
     id: 2,
