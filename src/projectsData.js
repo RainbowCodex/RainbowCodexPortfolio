@@ -23,8 +23,10 @@ const projectsData = [
     status: "Completed",
     description: "A management portal built to handle taxi bookings, driver tracking, and admin controls efficiently.",
     technologies: ["PHP", "JavaScript", "Bootstrap", "HTML5", "CSS3"],
-    githubLink: "https://github.com/RainbowCodex/RainbowCodexPortfolio.git",
-    liveLink: "https://rainbow-codex-portfolio.vercel.app"
+    githubLink: "https://github.com/RainbowCodex/taxistand-management-system", // Your public repo URL
+    liveLink: "#", 
+    // Add this new property below to store your 26 image paths automatically
+    images: Array.from({ length: 26 }, (_, i) => `/taxistand/taxistand-view${i + 1}.PNG`)
   },
   {
     id: 4,
