@@ -66,8 +66,8 @@ const projectsData = [
     
     // 🖼️ Add paths pointing directly to your images in public/bookstore:
     images: [
-      "/bookstore/bookstore-view1.png",
-      "/bookstore/bookstore-view2.png"
+      "/bookstore/bookstore-view1.jpg",
+      "/bookstore/bookstore-view2.jpg"
     ]
   },
 ];
