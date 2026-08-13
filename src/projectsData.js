@@ -61,9 +61,14 @@ const projectsData = [
     status: "Completed",
     description: "A digital book repository featuring category catalog browsing, dynamic search features, and shopping basket mechanics.",
     technologies: ["PHP", "JavaScript", "Bootstrap", "HTML5", "CSS3"],
-    githubLink: "https://github.com/RainbowCodex/RainbowCodexPortfolio.git",
-    liveLink: "https://rainbow-codex-portfolio.vercel.app"
-  }
+    
+    // 🔗 PASTE YOUR NEW REPOSITORY LINK
+    githubLink: "https://github.com/RainbowCodex/online-bookstore-website",
+    liveLink: "#",
+    
+    // 🖼️ Add images array if you added screenshots to public/bookstore
+    images: Array.from({ length: 5 }, (_, i) => `/bookstore/bookstore-view${i + 1}.PNG`)
+  },
 ];
 
 export default projectsData;
