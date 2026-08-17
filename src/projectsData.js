@@ -39,12 +39,21 @@ const projectsData = [
   },
   {
     id: 5,
-    title: "Online Wallpaper & Ceiling Decoration Booking System",
+    title: "Online Wallpaper & Ceiling Decoration Booking",
     status: "Completed",
-    description: "A service-booking application allowing users to browse home decor categories, view catalogs, and secure scheduling slots.",
+    description: "An interior decoration booking platform featuring custom design catalogs, material cost estimation, and appointment scheduling.",
     technologies: ["PHP", "JavaScript", "Bootstrap", "HTML5", "CSS3"],
-    githubLink: "https://github.com/RainbowCodex/RainbowCodexPortfolio.git",
-    liveLink: "rainbow-codex-portfolio.vercel.app"
+    
+    // 🔗 Repository URL:
+    githubLink: "https://github.com/RainbowCodex/wallpaper-ceiling-decoration-booking",
+    liveLink: "#",
+    
+    // 🖼️ Add your screenshot paths:
+    images: [
+      "/wallpaper/wallpaper-view1.PNG",
+      "/wallpaper/wallpaper-view2.PNG",
+      "/wallpaper/wallpaper-view3.PNG",
+    ]
   },
   {
     id: 6,
