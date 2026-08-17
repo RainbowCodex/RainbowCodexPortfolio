@@ -50,10 +50,22 @@ const projectsData = [
     id: 6,
     title: "Online Medical Store",
     status: "Completed",
-    description: "An e-pharmacy web system designed for browsing medicines, updating stock controls, and managing customer transactions.",
-    technologies: ["PHP", "JavaScript", "Bootstrap", "HTML5", "CSS3"],
-    githubLink: "https://github.com/RainbowCodex/RainbowCodexPortfolio.git",
-    liveLink: "https://rainbow-codex-portfolio.vercel.app"
+    description: "A comprehensive healthcare portal featuring prescription tracking, medicine inventory, role-based dashboards, and appointment booking.",
+    technologies: ["PHP", "React.js", "MySQL", "Bootstrap", "JavaScript"],
+    
+    // 🔗 Your new repository URL
+    githubLink: "https://github.com/RainbowCodex/online-medical-store",
+    liveLink: "#",
+    
+    // 🖼️ Add your screenshot paths (make sure file names & extensions match exactly)
+    images: [
+      "/medicalstore/medicalstore-view1.PNG",
+      "/medicalstore/medicalstore-view2.PNG",
+      "/medicalstore/medicalstore-view3.PNG",
+      "/medicalstore/medicalstore-view4.PNG",
+      "/medicalstore/medicalstore-view5.PNG",
+      "/medicalstore/medicalstore-view6.PNG"
+    ]
   },
   {
     id: 7,
